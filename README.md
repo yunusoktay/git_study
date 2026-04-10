@@ -1,17 +1,31 @@
 # MasterFabric-Trainee
 
-A Flutter learning project for the MasterFabric Trainee series.
+A 100-day Dart and Flutter learning repository.
 
-## Getting Started
+## Structure
 
-This project is a starting point for a Flutter application.
+- `docs/`: roadmap and setup notes
+- `notes/`: day-by-day learning notes
+- `dart/`: standalone Dart practice for the early days
+- `apps/flutter_app/`: the main Flutter application that grows after the Dart foundation
 
-A few resources to get you started if this is your first Flutter project:
+## Day 1
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Day 1 lives in `dart/day_001.dart` and focuses on:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- `Hello, World!`
+- `var`, `final`, `const`
+- `int`, `double`, `String`, `bool`
+
+Run Day 1 from the repository root with:
+
+```bash
+dart run dart/day_001.dart
+```
+
+Run the Flutter app with:
+
+```bash
+cd apps/flutter_app
+flutter run
+```

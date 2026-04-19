@@ -76,6 +76,20 @@ Run Day 7 from the repository root with:
 dart run dart/day_007.dart
 ```
 
+## Day 8
+
+Day 8 lives in `dart/day_008.dart` and includes:
+
+- Abstract classes and abstract methods
+- Interfaces via the `implements` keyword
+- Polymorphism through an abstract type
+
+Run Day 8 from the repository root with:
+
+```bash
+dart run dart/day_008.dart
+```
+
 Run the Flutter app with:
 
 ```bash

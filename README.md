@@ -118,6 +118,20 @@ Run Day 10 from the repository root with:
 dart run dart/day_010.dart
 ```
 
+## Day 11
+
+Day 11 lives in `dart/day_011.dart` and includes:
+
+- Synchronous vs asynchronous execution
+- Intro to the event loop
+- `Future` and `.then(...)` basics
+
+Run Day 11 from the repository root with:
+
+```bash
+dart run dart/day_011.dart
+```
+
 Run the Flutter app with:
 
 ```bash

@@ -132,6 +132,20 @@ Run Day 11 from the repository root with:
 dart run dart/day_011.dart
 ```
 
+## Day 12
+
+Day 12 lives in `dart/day_012.dart` and includes:
+
+- Creating Futures with `Future.delayed`
+- Handling results with `.then()`, `.catchError()`, `.whenComplete()`
+- Chaining multiple `.then()` calls
+
+Run Day 12 from the repository root with:
+
+```bash
+dart run dart/day_012.dart
+```
+
 Run the Flutter app with:
 
 ```bash
